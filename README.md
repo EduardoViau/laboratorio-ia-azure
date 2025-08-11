@@ -1,24 +1,29 @@
-# Laboratório de Inteligência Artificial no Azure
+# Laboratório IA no Azure
 
-**Descrição do Desafio:**
-> Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural. O objetivo é desenvolver habilidades práticas na criação de soluções baseadas em inteligência artificial voltadas para voz e linguagem. O entregável é um repositório organizado contendo anotações e insights adquiridos durante a prática, servindo como material de apoio para estudos e futuras implementações.
-
----
-
-## **Objetivos de Aprendizado**
-- Aplicar os conceitos aprendidos em um ambiente prático;
-- Documentar processos técnicos de forma clara e estruturada;
-- Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
+## Descrição do desafio
+Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas **Azure Speech Studio** e **Language Studio**, focando na análise de fala e linguagem natural. O objetivo é desenvolver habilidades práticas na criação de soluções baseadas em inteligência artificial voltadas para voz e linguagem.
 
 ---
 
-## **Insights e Experiência**
-Durante o curso, pratiquei e explorei recursos de:
-- **Azure Speech Studio** para análise e transcrição de fala;
-- **Azure Language Studio** para extração de frases-chave, análise de sentimentos e tradução automática;
-- Integração prática de IA com serviços de nuvem para criar soluções personalizadas;
-- Documentação e versionamento utilizando Git e GitHub para registro do processo e resultados.
+## Insights e Experiências
+
+### 1. Aplicar os conceitos aprendidos em um ambiente prático
+- **Exemplo:** Utilizei o Azure Speech Studio para criar um modelo de transcrição de áudio personalizado que reconhece termos técnicos da área de tecnologia, melhorando a precisão do reconhecimento de fala em contextos específicos.
+
+### 2. Documentar processos técnicos de forma clara e estruturada
+- **Exemplo:** Registrei cada passo do processo, desde a criação do recurso no Azure até o teste final da IA, incluindo capturas de tela e comandos utilizados, permitindo que qualquer pessoa possa reproduzir o experimento.
+
+### 3. Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica
+- **Exemplo:** Criei este repositório para armazenar minhas anotações, insights e exemplos práticos, tornando mais fácil revisitar o conteúdo futuramente ou compartilhar com colegas e em redes profissionais como o LinkedIn.
 
 ---
 
-📌 **LinkedIn:** [Eduardo Viau](https://www.linkedin.com/in/eduardo-viau-8957551bb)
+## Tecnologias utilizadas
+- **Azure Speech Studio** — Transcrição e conversão de fala em texto, com possibilidade de personalização.
+- **Azure Language Studio** — Extração de frases-chave, análise de sentimentos e identificação de idioma.
+- **GitHub** — Controle de versão e hospedagem da documentação.
+
+---
+
+## Autor
+[Eduardo Viau](https://www.linkedin.com/in/eduardo-viau-8957551bb)
